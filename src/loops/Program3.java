@@ -4,7 +4,7 @@ package loops;
 import java.util.Scanner;
 
 // Print natural number upto n
-public class Program2 {
+public class Program3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number : ");
