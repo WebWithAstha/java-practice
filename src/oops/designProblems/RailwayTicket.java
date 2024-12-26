@@ -1,4 +1,4 @@
-package oops;
+package oops.designProblems;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package oops;
+package oops.designProblems;
 
 import java.util.Scanner;
 
