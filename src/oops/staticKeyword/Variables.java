@@ -11,7 +11,7 @@ public class Variables {
     static void getAge() {
 
         //can't be used in a method : wants to get associated with class but is in method
-        static int age = 20; // throws err
+//        static int age = 20; // throws err
         int count = 20;
 
         System.out.println(count);
@@ -22,7 +22,7 @@ public class Variables {
         System.out.println(name);
 
         // non-static variable city cannot be referenced from a static context
-        System.out.println(city); // throws err
+//        System.out.println(city); // throws err
 
         // static method directly called
         getAge();
